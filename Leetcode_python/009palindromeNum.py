@@ -4,6 +4,7 @@
 #         return False
 #     else:
 #         l=str(x)
+#        #newl=reversed(l)
 #         newl=l[::-1]
 #         i=0
 #         while l[i] is newl[i]:
