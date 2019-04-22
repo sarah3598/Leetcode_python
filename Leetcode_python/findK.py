@@ -1,6 +1,5 @@
 #coding=utf-8
-import sys
-def printK(l1,l2,k):
+def findK(l1,l2,k):
     #l=len(l1)
     l3=[]
     i=0
@@ -22,4 +21,4 @@ if __name__=='__main__':
     a=[3,7,9]
     b=[0,3,11]
     k=3
-    print(printK(a,b,k))
+    print(findK(a,b,k))
