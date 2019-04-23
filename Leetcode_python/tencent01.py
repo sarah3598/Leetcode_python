@@ -1,3 +1,4 @@
+#####腾讯面试题01######
 ####solution1##########case通过率为100%
 import copy
 input_l=input().strip()
